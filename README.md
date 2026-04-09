@@ -1,6 +1,6 @@
 # Energy Drink Angebotsscraper
 
-Ein Python-basierter Scraper zur Aggregation und Analyse von Energy-Drink-Angeboten aus verschiedenen Quellen.
+Ein Python-basierter Scraper zur Aggregation und Analyse von Energy-Drink-Angeboten aus verschiedenen Quellen. WIP, UNKNOWN FUNCTIONALITY
 
 ---
 
